@@ -4,7 +4,16 @@
     <bookmark url="file://$PROJECT_DIR$/todoList/views.py" line="11" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ad85fc26-229c-49fc-aea5-8b974742db94" name="Default Changelist" comment="" />
+    <list default="true" id="ad85fc26-229c-49fc-aea5-8b974742db94" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../todo-frontend/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../todo-frontend/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-frontend/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../todo-frontend/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-frontend/src/containers/TodoListContainer.js" beforeDir="false" afterPath="$PROJECT_DIR$/../todo-frontend/src/containers/TodoListContainer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/todo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/todo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/activate" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/activate" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/activate.bat" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/activate.bat" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,11 +97,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/todoList/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="575">
-              <caret line="26" column="26" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="26" />
+            <state relative-caret-position="150">
+              <caret line="12" column="55" selection-start-line="12" selection-start-column="55" selection-end-line="12" selection-end-column="55" />
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
               </folding>
@@ -103,8 +112,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/todoList/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="200">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
               <folding>
                 <element signature="e#0#28#0" expanded="true" />
               </folding>
@@ -112,11 +121,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/todo/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="16" column="37" lean-forward="true" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
+            <state relative-caret-position="325">
+              <caret line="13" column="64" selection-start-line="13" selection-start-column="64" selection-end-line="13" selection-end-column="64" />
               <folding>
                 <element signature="e#628#660#0" expanded="true" />
               </folding>
@@ -134,6 +143,14 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>todo</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -147,21 +164,23 @@
         <option value="$PROJECT_DIR$/todoList/models.py" />
         <option value="$PROJECT_DIR$/todoList/urls.py" />
         <option value="$PROJECT_DIR$/todoList/views.py" />
+        <option value="$PROJECT_DIR$/venv/Scripts/activate" />
+        <option value="$PROJECT_DIR$/venv/Scripts/activate.bat" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="42" />
     <option name="y" value="26" />
     <option name="width" value="1433" />
-    <option name="height" value="867" />
+    <option name="height" value="975" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -172,28 +191,18 @@
             <path>
               <item name="todo" type="b2602c69:ProjectViewProjectNode" />
               <item name="todo" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="todo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="todo" type="462c0819:PsiDirectoryNode" />
               <item name="todo" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="todo" type="b2602c69:ProjectViewProjectNode" />
               <item name="todo" type="462c0819:PsiDirectoryNode" />
               <item name="todoList" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="todo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="todo" type="462c0819:PsiDirectoryNode" />
-              <item name="todoList" type="462c0819:PsiDirectoryNode" />
-              <item name="migrations" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -218,7 +227,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.0003_auto_20200114_2258">
+  <component name="RunManager" selected="Django server.todo">
     <configuration name="0001_initial" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="todo" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -293,7 +302,7 @@
         <env name="PYTHONUNBUFFERED" value="1" />
         <env name="DJANGO_SETTINGS_MODULE" value="todo.settings" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="D:\PythonWorkspace\TodoList\todo\venv\Scripts\python.exe" />
       <option name="WORKING_DIRECTORY" value="" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
@@ -309,6 +318,12 @@
       <option name="customRunCommand" value="" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Django server.todo" />
+      <item itemvalue="Python.0001_initial" />
+      <item itemvalue="Python.0002_remove_todoitem_title" />
+      <item itemvalue="Python.0003_auto_20200114_2258" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.0003_auto_20200114_2258" />
@@ -337,11 +352,17 @@
       <workItem from="1578505240862" duration="722000" />
       <workItem from="1578509699300" duration="683000" />
       <workItem from="1578750395787" duration="37296000" />
+      <workItem from="1579658316844" duration="8120000" />
+      <workItem from="1579679653875" duration="1168000" />
+      <workItem from="1579681200366" duration="117000" />
+      <workItem from="1579681330424" duration="57000" />
+      <workItem from="1579681547493" duration="770000" />
+      <workItem from="1579714753920" duration="648000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="77686000" />
+    <option name="totallyTimeSpent" value="88566000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -353,21 +374,20 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="42" y="26" width="1433" height="867" extended-state="0" />
-    <editor active="true" />
+    <frame x="42" y="26" width="1433" height="975" extended-state="1" />
     <layout>
       <window_info id="Favorites" order="0" sideWeight="0.5019685" side_tool="true" weight="0.25667655" />
-      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.4899329" weight="0.14202477" />
+      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.4899329" visible="true" weight="0.199563" />
       <window_info id="Structure" order="2" sideWeight="0.5100671" side_tool="true" weight="0.2047546" />
       <window_info anchor="bottom" id="Database Changes" order="0" />
-      <window_info anchor="bottom" id="Terminal" order="1" sideWeight="0.49765626" weight="0.32425067" />
+      <window_info anchor="bottom" id="Terminal" order="1" sideWeight="0.49765626" weight="0.3234245" />
       <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.5023438" side_tool="true" weight="0.3271523" />
       <window_info anchor="bottom" id="Version Control" order="3" />
-      <window_info anchor="bottom" id="Python Console" order="4" />
+      <window_info anchor="bottom" id="Python Console" order="4" weight="0.32936978" />
       <window_info anchor="bottom" id="Docker" order="5" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="6" />
       <window_info anchor="bottom" id="Find" order="7" />
-      <window_info anchor="bottom" id="Run" order="8" sideWeight="0.49765626" weight="0.23433243" />
+      <window_info active="true" anchor="bottom" id="Run" order="8" sideWeight="0.49765626" visible="true" weight="0.4233056" />
       <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
@@ -424,13 +444,7 @@
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/10bb1e04-9f11-46c5-af39-42669b5254da/console.sql">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="das://10bb1e04-9f11-46c5-af39-42669b5254da/database/todo/schema/public/table/todoItem">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="das://10bb1e04-9f11-46c5-af39-42669b5254da/database/todo/schema/public/table/todoItem" />
     <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/django/db/backends/utils.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
@@ -468,16 +482,6 @@
         <state>
           <folding>
             <element signature="e#220#229#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/manage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-          <folding>
-            <element signature="e#84#93#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -520,20 +524,8 @@
     <entry file="file://$PROJECT_DIR$/todoList/tests.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/todo_list.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="20" column="2" selection-start-line="20" selection-start-column="2" selection-end-line="20" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/test.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="496">
-          <caret line="33" column="33" selection-start-line="11" selection-start-column="4" selection-end-line="33" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/todo_list.html" />
+    <entry file="file://$PROJECT_DIR$/templates/test.html" />
     <entry file="file://$PROJECT_DIR$/todoList/serializers.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -585,32 +577,99 @@
     <entry file="file://$PROJECT_DIR$/todoList/migrations/0001_initial.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/todo/urls.py">
+    <entry file="file://$PROJECT_DIR$/manage.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="16" column="37" lean-forward="true" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
+        <state relative-caret-position="244">
+          <caret line="16" column="39" lean-forward="true" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
           <folding>
-            <element signature="e#628#660#0" expanded="true" />
+            <element signature="e#84#93#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/pyvenv.cfg">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/pip-selfcheck.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/asgiref/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/asgiref/compatibility.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Scripts/pip3.7-script.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Scripts/activate.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="12" column="23" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Scripts/activate">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="39" column="51" lean-forward="true" selection-start-line="39" selection-start-column="51" selection-end-line="39" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/django/apps/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Scripts/pip3-script.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Scripts/pip-script.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Scripts/easy_install-script.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/todoList/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="12" column="55" selection-start-line="12" selection-start-column="55" selection-end-line="12" selection-end-column="55" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/todoList/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="200">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
           <folding>
             <element signature="e#0#28#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/todoList/views.py">
+    <entry file="file://$PROJECT_DIR$/todo/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="575">
-          <caret line="26" column="26" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="26" />
+        <state relative-caret-position="325">
+          <caret line="13" column="64" selection-start-line="13" selection-start-column="64" selection-end-line="13" selection-end-column="64" />
           <folding>
-            <element signature="e#0#35#0" expanded="true" />
+            <element signature="e#628#660#0" expanded="true" />
           </folding>
         </state>
       </provider>

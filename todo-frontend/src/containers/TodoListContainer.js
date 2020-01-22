@@ -7,7 +7,7 @@ import {
     deleteTodo,
     editTodo,
     setSort,
-    setFilter, setSearch,
+    setFilter,
 } from "../actions";
 
 function mapStateToProps(state) {

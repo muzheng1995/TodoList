@@ -2,21 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9c5e168d-6ccc-4436-853d-59ee51e70b94" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/actions/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/TodoForm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/TodoList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/containers/AppContainer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/containers/TodoFormContainer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/containers/TodoListContainer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/css/App.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reducers/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/containers/TodoListContainer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/TodoListContainer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../todo/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo/.idea/todo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../todo/.idea/todo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../todo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo/venv/Scripts/activate" beforeDir="false" afterPath="$PROJECT_DIR$/../todo/venv/Scripts/activate" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo/venv/Scripts/activate.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../todo/venv/Scripts/activate.bat" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/node_modules/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,7 +19,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.48221573">
+    <splitter split-orientation="horizontal" split-proportion="0.5734792">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file pinned="false" current-in-tab="false">
@@ -91,7 +84,7 @@
             <entry file="file://$PROJECT_DIR$/src/containers/AppContainer.js">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="125">
-                  <caret line="15" column="6" lean-forward="true" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+                  <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
                   <folding>
                     <element signature="e#0#36#0" expanded="true" />
                   </folding>
@@ -103,7 +96,7 @@
             <entry file="file://$PROJECT_DIR$/src/containers/TodoFormContainer.js">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="475">
-                  <caret line="21" column="23" lean-forward="true" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+                  <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
                   <folding>
                     <element signature="e#0#36#0" expanded="true" />
                   </folding>
@@ -114,8 +107,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/containers/TodoListContainer.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="151">
-                  <caret line="17" column="37" lean-forward="true" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
+                <state relative-caret-position="275">
+                  <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
                   <folding>
                     <element signature="e#0#36#0" expanded="true" />
                   </folding>
@@ -158,7 +151,7 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -186,17 +179,18 @@
         <option value="$PROJECT_DIR$/src/actions/index.js" />
         <option value="$PROJECT_DIR$/src/components/App.js" />
         <option value="$PROJECT_DIR$/src/containers/AppContainer.js" />
-        <option value="$PROJECT_DIR$/src/containers/TodoListContainer.js" />
         <option value="$PROJECT_DIR$/src/components/TodoList.js" />
+        <option value="$PROJECT_DIR$/src/containers/TodoListContainer.js" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="44" />
-    <option name="y" value="155" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="-95" />
+    <option name="y" value="89" />
     <option name="width" value="1775" />
     <option name="height" value="938" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -229,7 +223,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Stacktodo-master/Stacktodo-master" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
@@ -240,6 +234,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="ts.external.directory.path" value="D:\software\PyCharm\install\PyCharm 2018.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RecentsManager">
@@ -279,16 +274,20 @@
       <workItem from="1578509634291" duration="711000" />
       <workItem from="1578750441542" duration="133241000" />
       <workItem from="1579626660927" duration="85000" />
+      <workItem from="1579673073888" duration="599000" />
+      <workItem from="1579679889610" duration="1069000" />
+      <workItem from="1579681217705" duration="173000" />
+      <workItem from="1579714810321" duration="761000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="142043000" />
+    <option name="totallyTimeSpent" value="144645000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="44" y="155" width="1775" height="938" extended-state="0" />
+    <frame x="-95" y="89" width="1775" height="938" extended-state="1" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14169097" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14868805" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="TypeScript" order="0" />
@@ -303,7 +302,7 @@
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="12" visible="true" weight="0.21517412" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="12" visible="true" weight="0.21517412" />
       <window_info anchor="bottom" id="Python Console" order="13" weight="0.329718" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -338,6 +337,11 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/setupTests.js">
@@ -416,6 +420,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-1050" />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/reducers/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -463,7 +475,7 @@
     <entry file="file://$PROJECT_DIR$/src/containers/AppContainer.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
-          <caret line="15" column="6" lean-forward="true" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+          <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
           <folding>
             <element signature="e#0#36#0" expanded="true" />
           </folding>
@@ -473,7 +485,7 @@
     <entry file="file://$PROJECT_DIR$/src/containers/TodoFormContainer.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="475">
-          <caret line="21" column="23" lean-forward="true" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+          <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
           <folding>
             <element signature="e#0#36#0" expanded="true" />
           </folding>
@@ -482,8 +494,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/containers/TodoListContainer.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="17" column="37" lean-forward="true" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
+        <state relative-caret-position="275">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
           <folding>
             <element signature="e#0#36#0" expanded="true" />
           </folding>
